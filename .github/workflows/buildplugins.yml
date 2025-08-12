@@ -1,4 +1,4 @@
-name: ci
+name: buildplugins
 
 on:
   pull_request:
